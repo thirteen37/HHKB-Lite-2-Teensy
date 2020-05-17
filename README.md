@@ -17,6 +17,10 @@ so you will lose the built-in USB hub.
 
 ## PCB
 
+This is a [KiCad](https://kicad-pcb.org/) project, but you can find
+the generated fabrication files in `plots/`. Just send them to your
+preferred PCB factory.
+
 The schematics are fairly straightforward, with 8 row pins and 14
 column pins:
 
