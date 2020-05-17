@@ -35,7 +35,7 @@ U 1 1 5EB4500B
 P 1800 2050
 F 0 "J_Row1" H 1772 1932 50  0000 R CNN
 F 1 "Rows" H 1772 2023 50  0000 R CNN
-F 2 "Connector_FFC-FPC:Molex_Easy-On_39-53-2084_8-Contacts" H 1800 2050 50  0001 C CNN
+F 2 "Connector_Molex_Easy-On:Molex_Easy-On_39-53-2084_8-Contacts" H 1800 2050 50  0001 C CNN
 F 3 "~" H 1800 2050 50  0001 C CNN
 	1    1800 2050
 	1    0    0    1   
@@ -46,7 +46,7 @@ U 1 1 5EB48372
 P 8900 2250
 F 0 "J_Col1" H 8872 2132 50  0000 R CNN
 F 1 "Columns" H 8872 2223 50  0000 R CNN
-F 2 "Connector_FFC-FPC:Molex_Easy-On_39-53-2144_14-Contacts" H 8900 2250 50  0001 C CNN
+F 2 "Connector_Molex_Easy-On:Molex_Easy-On_39-53-2144_14-Contacts" H 8900 2250 50  0001 C CNN
 F 3 "~" H 8900 2250 50  0001 C CNN
 	1    8900 2250
 	-1   0    0    1   

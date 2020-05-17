@@ -149,7 +149,7 @@
     (add_net "Net-(U1-Pad15)")
   )
 
-  (module Connector_FFC-FPC:Molex_Easy-On_39-53-2084_8-Contacts (layer F.Cu) (tedit 5EB946F0) (tstamp 5EB9A993)
+  (module Connector_Molex_Easy-On:Molex_Easy-On_39-53-2084_8-Contacts (layer F.Cu) (tedit 5EB946F0) (tstamp 5EB9A993)
     (at 134.112 75.438 180)
     (path /5EB4500B)
     (fp_text reference J_Row1 (at 4.318 4.064) (layer F.SilkS)
@@ -180,7 +180,7 @@
       (net 22 "Net-(J_Row1-Pad1)"))
   )
 
-  (module Connector_FFC-FPC:Molex_Easy-On_39-53-2144_14-Contacts (layer F.Cu) (tedit 5EB94935) (tstamp 5EB9ABB6)
+  (module Connector_Molex_Easy-On:Molex_Easy-On_39-53-2144_14-Contacts (layer F.Cu) (tedit 5EB94935) (tstamp 5EB9ABB6)
     (at 169.91 73.152)
     (path /5EB48372)
     (fp_text reference J_Col1 (at 8.144 -3.048) (layer F.SilkS)
