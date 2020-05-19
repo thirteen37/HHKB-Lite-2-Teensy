@@ -30,11 +30,20 @@ The PCB layout is likewise simple:
 
 ![PCB](images/pcb.png)
 
+Note that the Teensy should be mounted upside down, on the same side
+as the connectors. This is to save a couple of millimeters of space
+from the stacked height of the connectors.
+
+The Mini-USB plug that goes to the Teensy needs to be shaved down too,
+to save about 1mm of thickness.
+
 ## Parts
 
 * 1 [Teensy 2.0](https://www.pjrc.com/store/teensy.html)
 * 1 Molex Easy-On 14-pin 1.25mm pitch FFC connector 39-53-2145
 * 1 Molex Easy-On 8-pin 1.25mm pitch FFC connector 39-53-2085
+* 1/10" pitch thru-hole headers for Teensy
+* (White?) Mini-USB cable for Teensy
 
 ## Firmware
 
