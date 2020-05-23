@@ -34,6 +34,10 @@ The fabrication-ready files are in `plots/`. Just send them to your
 preferred fab. It is a pretty standard 1.6mm PCB with conservative via
 and track parameters that just about any shop can handle.
 
+You can also [order the PCBs through
+PCBway](https://www.pcbway.com/project/shareproject/HHKB_Lite_2___Teensy_2_0_controller.html). With
+their new user discount, you would only have to pay shipping.
+
 ### Parts
 
 * 1 [Teensy 2.0](https://www.pjrc.com/store/teensy.html)
