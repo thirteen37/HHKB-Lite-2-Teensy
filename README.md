@@ -101,7 +101,8 @@ strips of electrical insulation tape here.
 
 ### Flash the firmware and test
 
-Plug in the USB cable to your computer and flash the firmware.
+Plug in the USB cable to your computer and flash the firmware. There's
+a copy of the firmware with the default layout at `hex/hhkblite2.hex`.
 
 Programming is done using [Teensy
 Loader](https://www.pjrc.com/teensy/loader.html). Since the Teensy is
