@@ -52,6 +52,8 @@ hiding under the label. When the shell is open, there are also further
 one screw holding down the metal backplate and one screw each for
 the PCBa.
 
+![Screw locations](images/screws.jpg)
+
 The USB cable can be removed from the shell but does not need to be
 detached from the PCB. We will be using another USB cable instead.
 
@@ -62,6 +64,8 @@ mechanism.
 
 The Mini-USB plug that goes to the Teensy needs to be shaved down to
 save about 1mm of thickness.
+
+![Shaved USB](images/shaved_usb.jpg)
 
 ### Soldering the board
 
@@ -81,6 +85,10 @@ from the stacked height of the connectors. You may have to trim down
 the header pins after you've soldered on the Teensy. The USB cable
 should still be able to fit.
 
+![Teensy upside down](images/teensy_mounting.jpg)
+
+![Teensy clearance](images/teensy_clearance.jpg)
+
 ### Connect flex cables and insulate the backplate
 
 Connect the flex cables to the PCB. Note the orientation.
@@ -88,6 +96,8 @@ Connect the flex cables to the PCB. Note the orientation.
 The metal backplate should be insulated, at least around the area of
 the PCB, to minimize the risk of it shorting the board. I use a few
 strips of electrical insulation tape here.
+
+![Insulated backplate](images/insulation.jpg)
 
 ### Flash the firmware and test
 
