@@ -161,3 +161,32 @@ designed to minimize ghosting from common key combinations but will
 never completely eliminate it.
 
 ![Wiring matrix](images/wiring.png)
+
+The pin assignments are:
+
+| Matrix    | Pin |
+|-----------|-----|
+| *Rows*    |     |
+| 0         | F5  |
+| 1         | F4  |
+| 2         | F1  |
+| 3         | F0  |
+| 4         | B0  |
+| 5         | B1  |
+| 6         | B2  |
+| 7         | B3  |
+| *Columns* |     |
+| 0         | F6  |
+| 1         | F7  |
+| 2         | B6  |
+| 3         | B5  |
+| 4         | B4  |
+| 5         | D7  |
+| 6         | D6  |
+| 7         | D4  |
+| 8         | D5  |
+| 9         | C7  |
+| 10        | C6  |
+| 11        | D3  |
+| 12        | D2  |
+| 13        | D1  |
