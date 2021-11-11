@@ -132,7 +132,7 @@ You're done!
 
 ## PCB details
 
-This is a [KiCad](https://kicad-pcb.org/) project, but you can find
+This is a [KiCad](https://kicad.org/) project, but you can find
 the generated fabrication files in `plots/`. Just send them to your
 preferred PCB factory.
 
